@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Quantity,Price
+O101,Laptop,Electronics,2,45000
+O102,Shirt,Fashion,5,800
+O103,Mobile,Electronics,3,15000
+O104,Shoes,Fashion,2,2500
+O105,Book,Stationery,10,300
+O106,Headphones,Electronics,4,1200
+O107,Watch,Accessories,3,2000
+O108,Pen,Stationery,20,20
+O109,Laptop,Electronics,1,45000
+O110,Shirt,Fashion,3,800
